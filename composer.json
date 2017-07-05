@@ -1,0 +1,9 @@
+{
+	"name": "maschinenraum/insurance-credit-check",
+	"description": "API Client for R+V insurance credit check used for rental bond insurance",
+	"autoload": {
+		"psr-4": {
+			"Maschinenraum\\InsuranceCreditCheck\\": "Classes/"
+		}
+	}
+}
